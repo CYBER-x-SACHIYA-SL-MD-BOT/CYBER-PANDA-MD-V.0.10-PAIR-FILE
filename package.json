@@ -1,6 +1,6 @@
 {
-  "name": "silva-session",
-  "version": "3.0.0",
+  "name": "CYBER-PANDA-MD-V.0.10-PAIR-FILE",
+  "version": "V.0.10",
   "description": "WhatsApp Session Generator — Deploy on any platform",
   "main": "./index.js",
   "type": "commonjs",
@@ -11,7 +11,7 @@
     "node": ">=18.0.0",
     "npm": ">=8.0.0"
   },
-  "author": "Silva Tech",
+  "author": "CYBER-x-SACHIYA-SL-MD-BOT",
   "license": "GPL-3.0",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys@6.7.21",
